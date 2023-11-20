@@ -1,0 +1,14 @@
+C:\Users\Estebann\OneDrive - KP\Repos\PizzaStore\PizzaStore\obj\Debug\net7.0\PizzaStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estebann\OneDrive - KP\Repos\PizzaStore\PizzaStore\obj\Debug\net7.0\PizzaStore.AssemblyInfoInputs.cache
+C:\Users\Estebann\OneDrive - KP\Repos\PizzaStore\PizzaStore\obj\Debug\net7.0\PizzaStore.AssemblyInfo.cs
+C:\Users\Estebann\OneDrive - KP\Repos\PizzaStore\PizzaStore\obj\Debug\net7.0\PizzaStore.csproj.CoreCompileInputs.cache
+C:\Users\Estebann\OneDrive - KP\Repos\PizzaStore\PizzaStore\bin\Debug\net7.0\PizzaStore.exe
+C:\Users\Estebann\OneDrive - KP\Repos\PizzaStore\PizzaStore\bin\Debug\net7.0\PizzaStore.deps.json
+C:\Users\Estebann\OneDrive - KP\Repos\PizzaStore\PizzaStore\bin\Debug\net7.0\PizzaStore.runtimeconfig.json
+C:\Users\Estebann\OneDrive - KP\Repos\PizzaStore\PizzaStore\bin\Debug\net7.0\PizzaStore.dll
+C:\Users\Estebann\OneDrive - KP\Repos\PizzaStore\PizzaStore\bin\Debug\net7.0\PizzaStore.pdb
+C:\Users\Estebann\OneDrive - KP\Repos\PizzaStore\PizzaStore\obj\Debug\net7.0\PizzaStore.dll
+C:\Users\Estebann\OneDrive - KP\Repos\PizzaStore\PizzaStore\obj\Debug\net7.0\refint\PizzaStore.dll
+C:\Users\Estebann\OneDrive - KP\Repos\PizzaStore\PizzaStore\obj\Debug\net7.0\PizzaStore.pdb
+C:\Users\Estebann\OneDrive - KP\Repos\PizzaStore\PizzaStore\obj\Debug\net7.0\PizzaStore.genruntimeconfig.cache
+C:\Users\Estebann\OneDrive - KP\Repos\PizzaStore\PizzaStore\obj\Debug\net7.0\ref\PizzaStore.dll
